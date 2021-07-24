@@ -1,9 +1,9 @@
 <?php
 
-$servername = "vertesipatrik.com";
-$username = "vertesi1";
-$password = "tm(J85.XUw8Yg4";
-$database = "vertesi1_pokemon";
+$servername = "************";
+$username = "*******";
+$password = "***********";
+$database = "**********";
 
 $conn = new mysqli($servername, $username, $password, $database);
 
